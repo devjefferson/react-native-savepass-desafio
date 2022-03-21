@@ -8,16 +8,6 @@
 
 <br>
 
-# Telas da aplicação
-
-## Home
-<img style="width: 200px" align=center src="https://i.imgur.com/uM7DaS8.jpg" />
-<br>
-
-## Cadastrar senha
-<img style="width: 200px" align=center src="https://i.imgur.com/NeZIgGs.jpg" />
-<br>
-
 ## Tecnologias usadas
 - [React Native](https://reactnative.dev/)
 - [Expo](https://docs.expo.dev/)
